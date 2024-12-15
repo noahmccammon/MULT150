@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Blue
+  - Red
+  - Orange
+  - Green
+  - Chaos
   layers:
   - Default
   - TransparentFX
